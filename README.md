@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @spabolu
-- 👀 I’m interested in Web, Hacking, ML/AI.
+- 👀 I’m interested in Web, Hacking, ML/AI
 - 🌱 I’m currently learning JavaScript, Gatsby, Node
 - 💞️ I’m looking to collaborate on [bug-tracker](https://github.com/spabolu/bug-tracker)
-- 📫 Say `hello` to me on LinkedIn or hello at sakethpabolu dot com
+- 📫 Say `hello` to me at hello at sakethpabolu dot com or on LinkedIn
 
 <!---
 spabolu/spabolu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

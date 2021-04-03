@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web, Hacking, ML/AI.
 - 🌱 I’m currently learning JavaScript, Gatsby, Node
 - 💞️ I’m looking to collaborate on [bug-tracker](https://github.com/spabolu/bug-tracker)
-- 📫 Best way to reach me is on LinkedIn
+- 📫 Say `hello` to me on LinkedIn or hello at sakethpabolu dot com
 
 <!---
 spabolu/spabolu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

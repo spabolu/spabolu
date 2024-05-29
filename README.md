@@ -1,7 +1,8 @@
-### 👋 Hi, I’m @spabolu
+### Hi, my name is Saketh! 👋
+👩‍🎓 Currently a Senior at Arizona State University, majoring in Computer Science, with a minor in Data Science.
+
 - 👀 I’m interested in Web, Backend, ML/AI, iOS Dev, Servers
-- 🏢 I'm an undergrad at ASU, Tempe
-- 🌱 I’m currently learning React Native, C/C++, and [Neural Networks From Scratch](https://nnfs.io).
+- 🌱 I’m currently learning React.js, Docker, and [Neural Networks From Scratch](https://nnfs.io).
 
 <!---
 spabolu/spabolu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
